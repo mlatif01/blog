@@ -23,7 +23,7 @@ email: miladlatif89@gmail.com
 description: >-
   A blog for demonstrating the programming projects I have worked on.
 baseurl: "/miladblog" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "mlatif01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  mlatif01
 
