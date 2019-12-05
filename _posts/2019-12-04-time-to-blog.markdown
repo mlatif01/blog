@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my blog!"
 date:   2019-12-04 12:21:44 +0000
-categories: 
+categories: Personal
 ---
 This is my first blog post!
 
