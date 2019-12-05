@@ -13,12 +13,12 @@ perform a short animation to signify that the button is pressed.
 
 I'm building a javascript drum kit for this challenge. I have decided to use Visual Studio Code as the editor as I'm pretty used to it now. 
 The blog may be a bit of a brain dump, but I will read through here if I am bored or if I feel the need to recap on some of the things I have 
-learnt throughout this course. Apologies for poor writing in advance. But hey who knows this may help me improve my writing skills too!
+learnt throughout this course. Apologies for poor writing in advance, but who knows, this may help me improve my writing skills!
 The challenge is to create a drum kit which plays the drum sound associated with the key that is pressed and it will do a short animation where 
 it pops the button up to be a little bigger. Also it will apply some colouring to the button.
 
 First below are code snippets of my JS and an important part of the CSS. Also you can find the repo [here](https://github.com/mlatif01/js30/tree/master/01%20-%20JS%20Drum%20Kit), 
-and the demo [here](https://github.com/mlatif01/js30/tree/master/01%20-%20JS%20Drum%20Kit).
+and the demo [here](http://ml-js30.epizy.com/day01.html).
 
 {% highlight javascript %}
 
