@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 3: JavaScript Challenge"
+title:  "Day 4: JavaScript Challenge"
 date:   2019-12-07 12:45:44 +0000
 categories: JS30
 ---
