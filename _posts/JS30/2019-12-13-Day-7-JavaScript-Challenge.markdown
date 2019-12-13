@@ -5,7 +5,7 @@ date:   2019-12-13 18:06:44 +0000
 categories: JS30
 ---
 
-This excercise focusses on the following Array methods: some(), every(), find() and findIndex().
+This exercise focusses on the following Array methods: some(), every(), find() and findIndex().
 
 Didn't break a sweat with this one :) but ended up learning some useful Array methods!
   
