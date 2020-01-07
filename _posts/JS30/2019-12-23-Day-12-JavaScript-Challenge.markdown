@@ -5,7 +5,7 @@ date:   2019-12-23 10:22:00 +0000
 categories: JS30
 ---
 
-This execise is all about key sequence detection. Basically when someone inputs a certain sequence of keys 
+This exercise is all about key sequence detection. Basically when someone inputs a certain sequence of keys 
 into a window or input, something should happen.
  
 This is a.k.a the Konami Code. It is a cheat code that appears in many Konami video games and even 
