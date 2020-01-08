@@ -5,8 +5,6 @@ date:   2019-12-20 14:48:00 +0000
 categories: JS30
 ---
 
-Been busy with job interviews so fallen behind a tad bit!
-
 This one is quite tricky! We have to implement functionality so that when a user holds shift and
 then clicks another checkbox a few rows down, all the checkboxes inbetween those should be checked.
 

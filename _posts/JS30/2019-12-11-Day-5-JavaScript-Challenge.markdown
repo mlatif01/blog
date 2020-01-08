@@ -5,8 +5,6 @@ date:   2019-12-11 18:31:44 +0000
 categories: JS30
 ---
 
-Had a few days off because of a cold! Back on track with the course now. I hope!
-
 Today we mess around with CSS Flexbox. Mozilla MDN explains this well, much better than I can be
 bothered to right now ;) [here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox).
 This [YouTube video](https://www.youtube.com/watch?v=4GaHn08BXQw) is also really good at explaining it 

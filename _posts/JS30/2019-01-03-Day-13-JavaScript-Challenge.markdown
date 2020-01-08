@@ -5,8 +5,6 @@ date:   2020-01-03 12:30:00 +0000
 categories: JS30
 ---
 
-Back on the coding challenges after recovering from a bad case of the flu!
-
 This exercise involved creating a 'slide in on scroll' effect. When the user scrolls down the page, 
 images will scroll into the body of the page.
 
