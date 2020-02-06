@@ -13,8 +13,6 @@ the local storage will persist the state of the data.
 Event delegation is when we add a single event handler to a parent element in ordedr to avoid having to add event handlers 
 to multiple child elements.
 
-
-
 Repo [here](https://github.com/mlatif01/js30) 
 and demo is [here](http://ml-js30.epizy.com/day15.html).
 
