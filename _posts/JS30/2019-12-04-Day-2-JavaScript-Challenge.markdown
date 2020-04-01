@@ -8,7 +8,7 @@ categories: JS30
 Let's build a CSS and JS Clock!
 
 Code snippets are below. Also you can find the repo [here](https://github.com/mlatif01/js30/tree/master/02%20-%20CSS%20%2B%20JS%20Clock), 
-and the demo [here](http://ml-js30.epizy.com/day02.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 Code Snippets:
 

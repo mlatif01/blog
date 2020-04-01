@@ -129,7 +129,7 @@ video.addEventListener('canplay', paintToCanvas);
 
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day19.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 
 

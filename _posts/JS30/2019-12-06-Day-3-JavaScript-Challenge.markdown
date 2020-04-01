@@ -6,7 +6,7 @@ categories: JS30
 ---
 
 For day 3 we are experimenting with CSS variables and JS. Code is [here](https://github.com/mlatif01/js30/tree/master/03%20-%20CSS%20Variables) 
-and demo is [here](http://ml-js30.epizy.com/day03.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 CSS variables are declared on an element. We use the var() CSS function to insert the value of a custom property.
 They allow you to reuse and apply changes to repeatedly occurring CSS properties.

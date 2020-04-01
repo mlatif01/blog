@@ -13,7 +13,7 @@ then draw on that. You don't draw directly on the canvas element on HTML, you dr
 Play around with the demo! This is pretty cool!
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day08.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 JS code snippet below:
 {% highlight javascript %}

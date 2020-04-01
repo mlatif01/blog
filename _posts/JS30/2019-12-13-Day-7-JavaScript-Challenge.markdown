@@ -10,7 +10,7 @@ This exercise focusses on the following Array methods: some(), every(), find() a
 Didn't break a sweat with this one :) but ended up learning some useful Array methods!
   
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day07.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 JS code snippet below:
 {% highlight javascript %}

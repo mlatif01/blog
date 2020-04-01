@@ -12,7 +12,7 @@ There are a lot happening behind the scenes when implementing a HTML video playe
  update the buttons, toggling play/pause of the video and handling the update of the progress bar.
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day11.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 
 

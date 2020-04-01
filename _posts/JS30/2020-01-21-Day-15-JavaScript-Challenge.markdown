@@ -14,7 +14,7 @@ Event delegation is when we add a single event handler to a parent element in or
 to multiple child elements.
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day15.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 
 

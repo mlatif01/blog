@@ -10,7 +10,7 @@ I didn't realise there were so many console object methods!
 Very interesting exercise!
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day09.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 JS code snippet below:
 {% highlight javascript %}

@@ -12,7 +12,7 @@ I got a little stuck and [this](https://medium.com/@yurikanamba/javascript30-hol
 ) article was very helpful! 
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day10.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 JS code snippet below:
 {% highlight javascript %}

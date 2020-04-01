@@ -18,7 +18,7 @@ Great exercise to teach the Array methods, however, I intend to spend some more 
 they can be a little tricky to get the hang of. Especially reduce!
 
 Repo here [here](https://github.com/mlatif01/js30/tree/master/04%20-%20Array%20Cardio%201) 
-and demo is [here](http://ml-js30.epizy.com/day04.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 
 

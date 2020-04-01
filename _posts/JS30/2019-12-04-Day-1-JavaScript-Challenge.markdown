@@ -18,7 +18,7 @@ The challenge is to create a drum kit which plays the drum sound associated with
 it pops the button up to be a little bigger. Also it will apply some colouring to the button.
 
 First below are code snippets of my JS and an important part of the CSS. Also you can find the repo [here](https://github.com/mlatif01/js30/tree/master/01%20-%20JS%20Drum%20Kit), 
-and the demo [here](http://ml-js30.epizy.com/day01.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 {% highlight javascript %}
 

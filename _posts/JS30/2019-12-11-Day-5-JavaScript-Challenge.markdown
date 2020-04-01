@@ -10,7 +10,7 @@ bothered to right now ;) [here](https://developer.mozilla.org/en-US/docs/Web/CSS
 This [YouTube video](https://www.youtube.com/watch?v=4GaHn08BXQw) is also really good at explaining it 
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day05.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 JS code snippet below:
 {% highlight javascript %}

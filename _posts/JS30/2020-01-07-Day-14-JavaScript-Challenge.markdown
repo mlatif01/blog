@@ -9,7 +9,7 @@ This helped to explain object and array references and how to copy them when we 
 changes.
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day14.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 
 

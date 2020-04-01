@@ -12,7 +12,7 @@ Two key learning aspects were the window ['scroll'](https://developer.mozilla.or
 event and the [debounce](https://john-dugan.com/javascript-debounce/) function.
 
 Repo [here](https://github.com/mlatif01/js30) 
-and demo is [here](http://ml-js30.epizy.com/day13.html).
+and demo is [here](https://ml-js30.netlify.com/).
 
 {% highlight javascript %}
 
